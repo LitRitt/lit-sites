@@ -8,3 +8,5 @@
 layout: home
 title: Welcome
 ---
+
+This is a template for building jekyll sites using my theme.
