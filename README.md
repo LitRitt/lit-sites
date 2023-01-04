@@ -1,3 +1,3 @@
-# ***Lit Sites***
+# ***[Lit Sites](https://template.litritt.com)***
 
-A base repo for my [Jekyll](https://github.com/jekyll/jekyll) sites
+A template for my [Jekyll](https://github.com/jekyll/jekyll) sites
